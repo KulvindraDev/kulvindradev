@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
  
-- 
+🌱 I’m currently learning Blockchain Development.
+👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on Smart Contracts.
-🌱 I’m currently learning Blockchain Development.
-👯 I’m looking to collaborate on GitHub.
