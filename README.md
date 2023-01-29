@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Smart Contracts.\n
-🌱 I’m currently learning Blockchain Development.\n
-👯 I’m looking to collaborate on GitHub.\n
+🔭 I’m currently working on Smart Contracts.
+🌱 I’m currently learning Blockchain Development.
+👯 I’m looking to collaborate on GitHub.
