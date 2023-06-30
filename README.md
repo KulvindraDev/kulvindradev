@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ***Smart Contracts***.
-- 🌱 I’m currently learning ***Blockchain Development***.
+- 🔭 I’m currently working on ***JavaScript***.
+- 🌱 I’m currently learning ***Web Development(MERN)***.
 - 👯 I’m looking to collaborate on ***GitHub***.
