@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ***JavaScript***.
-- 🌱 I’m currently learning ***Web Development(MERN)***.
+- 🔭 I’m currently working on ***Swift & SwiftUI***.
+- 🌱 I’m currently learning ***iOS Development***.
 - 👯 I’m looking to collaborate on ***GitHub***.
